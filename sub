@@ -1,0 +1,4 @@
+
+#do sub subtractioon
+echo $(($1+$2))
+
