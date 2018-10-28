@@ -1,4 +1,4 @@
 
-#do sub subtractioon
+#do sub subtraction
 echo $(($1+$2))
 
